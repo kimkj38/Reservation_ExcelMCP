@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "excel-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@negokaz/excel-mcp-server",
+        "--key",
+        "??"
+      ]
+    }
+  }
+}
